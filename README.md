@@ -25,7 +25,7 @@ Indoor Climate leverages advanced predictive analysis to help building managers 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/indoor-climate.git
+   git clone https://github.com/Ikenna1011/indoor-climate.git
    ```
 2. Install dependencies:
    ```bash
